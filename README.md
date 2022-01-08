@@ -1,1 +1,0 @@
-For this first project I will build a basic recipe site.
